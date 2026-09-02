@@ -67,15 +67,21 @@ p{
    
 }
 
- img{
-    width:500px;
-    margin-top:0;
-    padding: 26px; 
+img{
+    width:500px; 
+    margin-top:20px;
+    /* padding: 26px;  */
+    margin-left: 30px;
     padding-block-end: 26px;
+    border-radius: 1900px;
+    height: 450px;
+    display: inline-block;
+
    
 }
-img{
-    border: solid black;
+image{
+    border: 5px solid rgb(146, 19, 19);
+    border-radius: 300px;
 }
 
 .background-color-changeing{
